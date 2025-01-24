@@ -1,1 +1,1 @@
-# Urdu-NER-datasets
+# NER-datasets
